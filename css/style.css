@@ -1,0 +1,168 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+h1{
+    font-size: 3em;
+    font-size: 312.5%;
+    margin: 3em auto 0 90px;
+    font-family: 'Cedarville Cursive';
+    color:black;
+    line-height: 2;
+    font-weight:bolder;
+}
+h2{
+    font-size: 2em;
+    font-family: 'Quicksand', sans-serif;
+    color:black;
+    font-weight: bold;
+}
+h3{
+    font-weight: bold;
+    font-size: 1.5em;
+    color: black;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.topContainer{
+    text-align: left;
+    background-color: white;
+    position: relative;
+    padding-top: 100px;
+    padding-left: 5em;
+    height: 36em;
+    margin: 0;
+    padding-bottom: 0;
+}
+.middleContainer{
+    padding: 50px;
+    background-color: lightblue;
+    position: relative;
+}
+.bottomContainer{
+    background-color: white;
+    padding: 50px 0 20px;
+    margin: none;
+}
+
+p{  
+    font-family: sans-serif;
+    font-size: 1.25em;
+    line-height: 1.5;
+}
+
+a{
+    color: black;
+    font-family: 'Quicksand', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a:hover{
+    color: lightblue;
+}
+
+.skillRow{
+    width: 60%;
+    margin: auto;
+    margin: 50px auto 50px auto;
+    text-align: center;
+    line-height: 2;
+}
+.computerImg{
+    width: 40%;
+    margin: auto;
+    border-radius: 10%;
+    align-items: center;
+}
+.travelImg{
+    width: 40%;
+    margin: auto;
+    border-radius: 10%;
+    align-items: center;
+}
+.sportImg{
+    width: 40%;
+    margin: auto;
+    border-radius: 10%;
+    align-items: center;
+}
+.movieImg{
+    width: 40%;
+    margin: auto;
+    border-radius: 10%;
+    align-items: center;
+}
+
+hr{
+   border-style: none;
+   border-top-style: dotted;
+   border-color: white;
+   border-width: 5px;
+   width: 5%;
+}
+
+.btn{
+    margin: 5em;
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: black;
+    font-size: 0.75em;
+    background: white;
+    padding: 10px 20px 10px 20px;
+    border: solid  0px;
+    text-decoration: none;
+  }
+  
+.btn:hover {
+    background: lightblue;
+    color: black;
+    text-decoration: none;
+  }
+.headImg{
+        position: absolute;
+        right: 175px;
+        margin-top: 50px;
+        width: 25em;
+}
+.custom-shape-divider-bottom-1642488919 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1642488919 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 100px;
+}
+
+.custom-shape-divider-bottom-1642488919 .shape-fill {
+    fill: lightblue;
+}
+.custom-shape-divider-top-1642488853 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1642488853 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 60px;
+}
+
+.custom-shape-divider-top-1642488853 .shape-fill {
+    fill: lightblue;
+}
+
